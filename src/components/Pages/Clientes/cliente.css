@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Nunito:wght@400;600&display=swap');
+
+.conteudo {
+  margin-top: 100px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.botao-adicionar-cliente {
+  margin-top: 100px;
+  max-width: 50vw;
+  max-height: 30vh;
+}
